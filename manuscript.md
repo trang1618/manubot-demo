@@ -2,7 +2,7 @@
 author-meta:
 - John Doe
 - Jane Roe
-date-meta: '2018-11-11'
+date-meta: '2018-11-12'
 keywords:
 - markdown
 - publishing
@@ -18,10 +18,10 @@ title: 'Manubot Rootstock: Manuscript Title'
 
 <small><em>
 This manuscript
-([permalink](https://trang1618.github.io/manubot-demo/v/9472ebcfb22a08681d52740ac3aa441f685f56c4/))
+([permalink](https://trang1618.github.io/manubot-demo/v/49e26b83d344ec9ebc99814ae4123ee23e200555/))
 was automatically generated
-from [trang1618/manubot-demo@9472ebc](https://github.com/trang1618/manubot-demo/tree/9472ebcfb22a08681d52740ac3aa441f685f56c4)
-on November 11, 2018.
+from [trang1618/manubot-demo@49e26b8](https://github.com/trang1618/manubot-demo/tree/49e26b83d344ec9ebc99814ae4123ee23e200555)
+on November 12, 2018.
 </em></small>
 
 ## Authors
@@ -52,6 +52,18 @@ on November 11, 2018.
 
 
 ## Abstract {.page_break_before}
+
+
+
+
+# Introduction
+
+This is an *example* of a **Manubot** manuscript.
+[Link to setup](manubot.org).
+Useful files:
+
+* USAGE.md
+* SETUP.md
 
 
 
