@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/trang1618/manubot-demo/tree/gh-pages) branch hosts the contents of this directory at https://trang1618.github.io/manubot-demo/.
-The permalink for this webpage version is https://trang1618.github.io/manubot-demo/v/9472ebcfb22a08681d52740ac3aa441f685f56c4/.
+The permalink for this webpage version is https://trang1618.github.io/manubot-demo/v/49e26b83d344ec9ebc99814ae4123ee23e200555/.
 To redirect to the permalink for the latest manuscript version at anytime, use the link https://trang1618.github.io/manubot-demo/v/freeze/.
 
 ## Files
@@ -32,4 +32,4 @@ git add v/*/*.ots
 ## Source
 
 The manuscripts in this directory were built from
-[`9472ebcfb22a08681d52740ac3aa441f685f56c4`](https://github.com/trang1618/manubot-demo/commit/9472ebcfb22a08681d52740ac3aa441f685f56c4).
+[`49e26b83d344ec9ebc99814ae4123ee23e200555`](https://github.com/trang1618/manubot-demo/commit/49e26b83d344ec9ebc99814ae4123ee23e200555).
